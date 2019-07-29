@@ -4,7 +4,7 @@
 # files 'LICENSE' and 'NOTICE', which are part of this source\n
 # code package.
 #####################################################################
-
+# test
 # location of java executable
 if [ -f "$JAVA_HOME/bin/java" ]; then
   JAVA=$JAVA_HOME/bin/java
