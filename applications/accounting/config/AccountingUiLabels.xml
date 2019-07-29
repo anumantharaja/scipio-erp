@@ -24181,7 +24181,7 @@
     </property>
     <property key="AccountingRecentPayments">
         <value xml:lang="de">Letzte Zahlungsvorgänge</value>
-        <value xml:lang="en">Recent Payments</value>
+        <value xml:lang="en">Recent payments</value>
     </property>
     <property key="AccountingRevenue">
         <value xml:lang="de">Umsatz</value>
