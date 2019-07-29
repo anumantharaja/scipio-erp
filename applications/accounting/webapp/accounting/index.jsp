@@ -16,5 +16,5 @@ KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
 --%>
-<h1> Welcome to Scipio </>
+<h1> Welcome to Scipio erp </>
 <%response.sendRedirect("control/main");%>
