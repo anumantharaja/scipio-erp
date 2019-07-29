@@ -17,7 +17,7 @@
 # specific language governing permissions and limitations
 # under the License.
 #####################################################################
-
+#test
 # location of java executable
 if [ -f "$JAVA_HOME/bin/java" ]; then
   JAVA=$JAVA_HOME/bin/java
