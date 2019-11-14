@@ -39,6 +39,7 @@ echo " 5.  Exit"
 echo ""
 echo " ====================================="
 echo ""
+echo "Just adding a comment"
 
 PS3='Please select a number: '
 options=("Install for Development" "Install for Production" "Recompile" "List ant info" "Quit")
